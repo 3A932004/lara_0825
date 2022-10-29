@@ -17,7 +17,7 @@
     </head>
     <body>
         <!-- Navigation-->
-        @include('layouts.partials.navigation');
+        @include('layouts.partials.navigation')
         <!-- Page Header-->
         <!-- Main Content-->
         @yield('content');
